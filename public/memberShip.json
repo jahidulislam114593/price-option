@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "duration": "1 Month",
+      "benefits": [
+        "Access to gym facilities",
+        "Locker room access",
+        "Free Wi-Fi"
+      ],
+      "description": "A great choice for those who want to get started with basic gym access.",
+      "availability": true
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 49.99,
+      "duration": "1 Month",
+      "benefits": [
+        "Access to gym facilities",
+        "Locker room access",
+        "Free Wi-Fi",
+        "One group class per week"
+      ],
+      "description": "Includes everything in Basic Membership plus access to group classes.",
+      "availability": true
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 69.99,
+      "duration": "1 Month",
+      "benefits": [
+        "Access to gym facilities",
+        "Locker room access",
+        "Free Wi-Fi",
+        "Unlimited group classes",
+        "One personal training session per month",
+        "Sauna and steam room access"
+      ],
+      "description": "Best value membership with additional perks for serious fitness enthusiasts.",
+      "availability": true
+    },
+    {
+      "id": 4,
+      "name": "Annual Membership",
+      "price": 499.99,
+      "duration": "12 Months",
+      "benefits": [
+        "Access to gym facilities",
+        "Locker room access",
+        "Free Wi-Fi",
+        "Unlimited group classes",
+        "Three personal training sessions per month",
+        "Sauna and steam room access",
+        "One free guest pass per month"
+      ],
+      "description": "Get a full year of unlimited access and exclusive benefits at a discounted rate.",
+      "availability": true
+    },
+    {
+      "id": 5,
+      "name": "Student Membership",
+      "price": 24.99,
+      "duration": "1 Month",
+      "benefits": [
+        "Access to gym facilities",
+        "Locker room access",
+        "Free Wi-Fi",
+        "Discounted group classes"
+      ],
+      "description": "Special rate for students with a valid student ID.",
+      "availability": true
+    }
+  ]
+  
